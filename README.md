@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Python, Machine Learning & Data Science
+*- 🌱 I’m currently learning Python, Machine Learning & Data Science*
 
 ![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=ThangarajVMani&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
